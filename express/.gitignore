@@ -1,0 +1,4 @@
+**/*.env
+**/*imabhisht-test-app-firebase-adminsdk-m8eqr-9e51c19c0a.json
+node_modules
+**/*.log
